@@ -7,3 +7,11 @@
 *.bak
 *.zip
 *.rar
+
+# Tracked: testst
+!/testst/
+!/testst/**
+/testst/*.tmp
+/testst/*.bak
+/testst/temp/
+/testst/cache/
