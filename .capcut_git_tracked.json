@@ -1,5 +1,8 @@
 {
   "testst": {
     "include_media": true
+  },
+  "v2": {
+    "include_media": true
   }
 }

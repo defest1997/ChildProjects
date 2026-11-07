@@ -15,3 +15,11 @@
 /testst/*.bak
 /testst/temp/
 /testst/cache/
+
+# Tracked: v2
+!/v2/
+!/v2/**
+/v2/*.tmp
+/v2/*.bak
+/v2/temp/
+/v2/cache/
