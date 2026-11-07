@@ -1,0 +1,9 @@
+# CapCut Git Manager Auto-Generated .gitignore
+/*
+!/.gitignore
+!/.capcut_git_tracked.json
+!/README.md
+*.tmp
+*.bak
+*.zip
+*.rar
